@@ -1,0 +1,56 @@
+.googleMap{
+    width: 60% !important;
+    display: flex;
+    height: 60vh;
+    margin-left: 16%;
+    margin-top: 10vh;
+}
+.singleDetials{
+    background-color: #fff ;
+    height: 120px;
+    width: 250px;
+    padding: 10px;
+
+}
+.singleDetials:hover{
+    background-color: #FF9366;
+    transition: 0.4s; 
+    color: whitesmoke;
+}
+input, textArea{
+    border: 1px solid rgb(184, 181, 181);
+}
+
+/* ---------------------
+   media query
+----------------- */
+/* for mobile */
+
+@media (max-width:601px) {
+    .googleMap{
+        width: 100% !important;
+        margin-left: 0%;
+    }
+    .contact-section{
+        display: grid !important;
+    }
+    .contact-section > aside{
+        margin-left: 2% !important;
+    }
+    input, textArea{
+        margin-left: 0% !important;
+        display: block !important;
+        width: 96% !important;
+    }
+    .cotactDetails{
+        width: 80% ;
+        margin-left: 10%;
+    }
+    .section-name{
+        margin-left: 5vh !important;
+        padding-top: 50vh !important;
+    }
+    .contact-banner{
+        height: 500px !important;
+    }
+}

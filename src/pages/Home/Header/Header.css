@@ -1,0 +1,93 @@
+html,body{
+    overflow-x: hidden;
+}
+/* scrollbar */
+::-webkit-scrollbar{
+    width: 5px;
+}
+::-webkit-scrollbar-thumb {
+    background: #f07946;
+    border-radius: 5px;
+}
+/* ----------
+    Navbar
+---------- */
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+nav a{
+    margin-left: 30px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+nav button{
+    margin-left: 20px;
+    border: none;
+    background-color: #f07946;
+    padding: 6px 14px;
+    border-radius: 3px;
+    color: white;
+}
+
+/* Header Banner */
+.headerText {
+    margin-left: 10%;
+    padding-top: 15%;
+    font-family: 'Poppins', sans-serif;
+}
+.headerText h1{
+    font-size: 50px;
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.headerText p {
+    font-size: 19px;
+    width: 55%;
+    /* font-weight: 500; */
+    color: #fff;
+}
+
+/* ---------------------
+   media query
+----------------- */
+/* for mobile */
+
+@media (max-width:601px) {
+    body{
+        overflow-x: hidden;
+    }html{
+        overflow-x: hidden;
+    }
+
+.userProfile{
+    margin-left: 0 !important;
+margin-bottom: 20px ;
+}
+.webTitle{
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+}
+header{
+
+height: 100vh !important;
+}
+.headerText{
+    margin-left: 10px !important;
+    padding-top: 20% !important;
+}
+.headerText h1{
+    font-size: 24px;
+}
+.headerText p {
+    font-size: 16px;
+    width: 90%;
+margin-top: 20px;
+}
+#appoinmantBtn{
+    padding: 7px !important;
+}
+
+}

@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="number-slide"],
+[class*=" number-slide"] {
+  background: grey;
+  /* display: flex; */
+  /* justify-content: center; */
+  /* font-size: ; */
+  color: #fff;
+  font-weight: 500;
+  height: 300px;
+  max-height: 100vh;
+}
+
+.number-slide1 {
+ 
+  background-color: #FF9668;
+  
+}
+
+.number-slide2 {
+  background-color: #FF9668;
+}
+
+.number-slide3 {
+  background-color: #FF9668;
+}
+
+.number-slide4 {
+  background-color: #FF9668;
+}
+
+.number-slide5 {
+  background-color: #FF9668;
+}
+.number-slide6 {
+  background-color: #FF9668;
+}

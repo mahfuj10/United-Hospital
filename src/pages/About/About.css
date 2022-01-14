@@ -1,0 +1,62 @@
+.aboutDetials{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 10%; */
+    grid-template-columns: repeat(4,30vh);
+    margin-bottom: 200px;
+    margin-top: 200px;
+    color: #fff;
+}
+
+.aboutDetials i{
+    color: #fff;
+    font-size: 55px;
+}
+.progress-bar{
+    background-color: #fa8a5a;
+}
+
+/* ---------------------
+   media query
+----------------- */
+/* for mobile */
+
+@media (max-width:601px) {
+    .about-banner > aside{
+        margin-left: 2vh !important;
+    }
+    .hospital-hisotry{
+        display: grid !important;
+        margin-left: 20px !important;
+        margin-bottom: 70px !important;
+    }
+    .hospital-hisotry > aside{
+        width: 75% !important;
+        margin-left: 0px !important;
+    }
+    .about-us{
+        display: grid !important;
+    }
+    .about-us {
+        margin-left: 0 !important;
+    }
+    .aboutImg{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .detailsUs{
+        padding-left: 17px !important;
+    }
+    .aboutText{
+        width: 90% !important;
+        margin-left: 0 !important;
+    }
+    .progress{
+        width: 90% !important;
+    }
+    .aboutDetials{
+        grid-template-columns: repeat(2,1fr);
+        margin-top: 100px;
+    }
+}

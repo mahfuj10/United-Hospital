@@ -1,0 +1,134 @@
+[
+
+   
+    {
+        "image":"https://www.prairieeyecenter.com/wp-content/uploads/woman-eye-surgery.jpg",
+        "name":"Eye Care",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "icon":"https://i.ibb.co/MZDp6Yh/eye-care.png",
+        "id":"0aas023",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://i.ibb.co/vHJ2hh1/doctor-posing-confident-his-cabinet-near-window-african-american-doctor-during-his-work-with-patient.jpg",
+        "department":"Eye Surgeon",
+        "doctorName":"Riad Ekan",
+        "secondDoctor":"https://i.ibb.co/qYQgp8b/doctor-standing-with-folder-stethoscope-1291-162.jpg",
+        "thirdDoctor":"https://i.ibb.co/vwDBsB1/front-view-covid-recovery-center-female-doctor-with-posing-with-stethoscope-23-21488478982.jpg",
+        "cost":"4320"
+
+    },
+    {
+        "image":"https://www.deept.com/wp-content/uploads/2019/02/HealthMatters_web.jpg",
+        "name":"Physical Therapy",
+        "icon":"https://i.ibb.co/j4LLqjq/therapy.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"0kljsh3",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://i.ibb.co/HPFjhn6/happy-young-male-doctor-using-tablet-computer-1262-182542.jpg",
+        "department":"Physical Therapy",
+        "doctorName":"Edward Dughlas",
+        "cost":"2420",
+        "secondDoctor":"https://i.ibb.co/YjR1xZZ/healthcare-workers-coronavirus-covid-19-pandemic-insurance-concept-close-up-serious-young-doctor-whi.jpg",
+        "thirdDoctor":"https://i.ibb.co/S3y7DZF/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clin.jpg"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1581584731241-c134a1afe9a0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80",
+        "icon":"https://i.ibb.co/0XpxxPv/tooth.png",
+        "name":"Dental Care",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"0s97sa23",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://i.ibb.co/gVKm265/image1.jpg",
+        "secondDoctor":"https://i.ibb.co/dQrk6hH/medium-shot-doctor-with-crossed-arms-23-21488681762.jpg",
+        "doctorName":"Peter Parker",
+        "department":"Dental Hyginest",
+        "cost":"3430",
+        "thirdDoctor":"https://i.ibb.co/rZV3cMB/medium-shot-doctor-with-stethoscope-23-21488729742.jpg"
+    },
+    {
+        "image":"https://www.smsna.org/images/2021/08/09/Penile_Ultrasound_Photo.jpg",
+        "name":"Diagnostic Test",
+        "icon":"https://i.ibb.co/8jnHnL4/diagnostic.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"06sd7sa23",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://i.ibb.co/cvDdfTB/portrait-successful-mid-adult-doctor-with-crossed-arms-1262-128652.jpg",
+        "doctorName":"Mahim Rahman",
+        "cost":"5020",
+        "department":"Diagnostic Specialest",
+        "secondDoctor": "https://i.ibb.co/QrTC7h8/usman-yousaf-Sakq-Lf78-KVo-unsplash2.jpg",
+        "thirdDoctor":"https://i.ibb.co/QrTC7h8/usman-yousaf-Sakq-Lf78-KVo-unsplash2.jpg"
+
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1551190822-a9333d879b1f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VyZ2VyeXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80",
+        "icon":" https://i.ibb.co/51bmZ3p/laser-surgery.png",
+        "name":"Skin Surgery",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"734jsdh87",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://image.freepik.com/free-photo/happy-young-male-doctor-using-tablet-computer_1262-18254.jpg",
+        "doctorName":"Abdullah Dayan",
+        "department":"Skin Surgeon",
+        "cost":"4920",
+        "secondDoctor": "https://image.freepik.com/free-photo/confident-young-asia-female-doctor-white-medical-uniform-with-stethoscope-looking-camera-smiling-while-video-conference-call-with-patient-health-hospital_7861-3136.jpg",
+        "thirdDoctor":"https://image.freepik.com/free-photo/black-woman-with-stethoscope_1157-15563.jpg"
+    },
+ 
+    {
+        "image":"https://image.freepik.com/free-photo/black-woman-with-stethoscope_1157-15563.jpg",
+        "name":"Hart Surgery",
+        "icon":"https://i.ibb.co/tBy4hNR/heart.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"734jsdhsasa98765544487",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://image.freepik.com/free-photo/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865.jpg",
+        "doctorName":"Samayun Riyak",
+        "department":"Hart Surgeon",
+        "cost":"8920",
+        "secondDoctor":"https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80",
+        "thirdDoctor":"https://image.freepik.com/free-photo/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865.jpg"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+        "icon":" https://i.ibb.co/TqLBPh9/x-rays.png",
+        "name":"X-ray",
+        "cost":"9520",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"7sdopjsdh87",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://image.freepik.com/free-photo/healthcare-workers-coronavirus-covid-19-pandemic-insurance-concept-close-up-serious-young-doctor-white-coat-glasses-listen-closely-patient-cross-arms-chest-holding-stethoscope_1258-58654.jpg",
+        "doctorName":"Riyad Ahmed",
+        "department":"X-ray Specialist",
+        "secondDoctor": "https://image.freepik.com/free-photo/confident-young-asia-female-doctor-white-medical-uniform-with-stethoscope-looking-camera-smiling-while-video-conference-call-with-patient-health-hospital_7861-3136.jpg",
+        "thirdDoctor":"https://image.freepik.com/free-photo/black-woman-with-stethoscope_1157-15563.jpg"
+
+    },
+    {
+        "image":"https://www.fortishealthcare.com/speciality_banner/mobile/Non-Invasive-Cardiology.jpg",
+        "icon":"https://i.ibb.co/QjSHWqL/pulse.png",
+        "name":"Cardiology",
+        "cost":"7100",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"7s987sdjsdh87",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://img.freepik.com/free-photo/portrait-doctor_144627-39390.jpg?size=338&ext=jpg",
+        "doctorName":"Fahim Ahmed",
+        "department":"Cardiology Specialest",
+        "secondDoctor":"https://i.ibb.co/qYQgp8b/doctor-standing-with-folder-stethoscope-1291-162.jpg",
+        "thirdDoctor":"https://i.ibb.co/vwDBsB1/front-view-covid-recovery-center-female-doctor-with-posing-with-stethoscope-23-21488478982.jpg"
+    },
+    {
+        "image":"https://images.unsplash.com/photo-1551601651-2a8555f1a136?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=847&q=80",
+        "cost":"2370",
+        "name":"Eurology",
+        "icon":"https://i.ibb.co/zsBt6WS/neurology.png",
+        "description":"Eye surgery, also known as ocular surgery, is surgery performed on the eye or its adnexa, typically by an ophthalmologist.",
+        "id":"lksd4jsdh87",
+        "details":"A hospital is a health care institution providing patient treatment with specialized medical and nursing staff and medical equipment.[1] The best-known type of hospital is the general hospital, which typically has an emergency department to treat urgent health problems ranging from fire and accident victims to a sudden illness. A district hospital typically is the major health care facility in its region, with many beds for intensive care and additional beds for patients who need long-term care.",
+        "doctor":"https://image.freepik.com/free-photo/african-american-medical-doctor-man-with-mask-isolated-gray-background_231208-2230.jpg",
+        "doctorName":"Siam Rahman",
+        "department":"Eurology Surgeon",
+        "secondDoctor": "https://image.freepik.com/free-photo/confident-young-asia-female-doctor-white-medical-uniform-with-stethoscope-looking-camera-smiling-while-video-conference-call-with-patient-health-hospital_7861-3136.jpg",
+        "thirdDoctor":"https://image.freepik.com/free-photo/black-woman-with-stethoscope_1157-15563.jpg"
+    }
+]

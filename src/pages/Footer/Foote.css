@@ -1,0 +1,38 @@
+footer{
+    background-color: black;
+    height: 400px;
+    padding-left: 50px;
+    color: #fff;
+}
+footer a {
+    font-size: 15px;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    margin-bottom: 10px;
+}
+footer p{
+    font-size: 15px;
+}
+footer i{
+    color: #f78453;
+} 
+
+.footerDetails{
+    margin-left: 100px;
+    margin-top: 5%;
+    width: 400px;
+}
+
+/* ---------------------
+   media query
+----------------- */
+/* for mobile */
+@media (max-width:601px) {
+    footer{
+        height: 100% !important;
+    }
+    .footerDetails{
+        margin-left: 10px;
+    }
+}

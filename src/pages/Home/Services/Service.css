@@ -1,0 +1,50 @@
+/* service container */
+.departmentSpecialist{
+    margin-right: 40px;
+}
+.serviceContainer{
+    display: grid;
+    grid-template-columns: repeat(4,45vh);
+    justify-content: center;
+    margin-top: 5%;
+    row-gap: 80px;
+    margin-left: 5%;
+}
+
+.description{
+    color: rgb(151, 149, 149);
+    font-family: 'Roboto', sans-serif;
+}
+/* single service item */
+.serviceItem{
+    /* border: 1px solid rgb(226, 222, 222); */
+    width: 350px;
+    padding: 20px;
+}
+
+/*---------------------
+    media query
+-------------------*/
+/* Moile */
+@media (max-width:601px) {
+.detailsBanner h2,h6{
+    margin-left: 10px !important;
+}
+    .serviceContainer{
+        grid-template-columns: repeat(1,1fr);
+        row-gap: 20px;
+    }
+
+    .departmentImg{
+        margin-left: 0 !important;
+    }
+    .department-title{
+        padding-left: 15px !important;
+        margin-top: 20px;
+    }
+    .department-title p{
+        width: 96% !important;
+        text-align: justify;
+    }
+  
+}
